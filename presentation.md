@@ -30,25 +30,6 @@
 
 ---
 
-> Two people attacking a single problem through code and discussion.
--- Chris & James
-
-^ This is the definition we came up with. I don't think it's perfect.
-
----
-
-# What Pair Programming is Not
-
-* Someone judging you on what you're doing.
-* Something only less experienced people do until they're up to speed.
-* Two people doing the job of one person.
-
----
-
-# What is Pair Programming?
-
----
-
 # XP: The "White Book"
 
 ![inline](extreme-programming-explained.jpg)
@@ -87,23 +68,41 @@
 
 ---
 
+> A dialog between two people trying to simultaneously program.
+
+---
+
+> A conversation at many levels assisted by & focused on a computer.
+
+---
+
+> A subtle skill - you can spend the rest of your life getting good at.
+
+---
+
 # What Pair Programming is Not
 
 ---
 
-* One person programming while another watches.
-* A one-way tutoring session.
-* About being joined at the hip.
+> One person programming while another watches.
+
+^ Two people doing the job of one person.
 
 ---
 
-# What is Pair Programming?
+> A one-way tutoring session.
 
 ---
 
-* A dialog between two people trying to simultaneously program.
-* A conversation at many levels assisted by & focused on a computer.
-* A subtle skill - you can spend the rest of your life getting good at.
+> One person judging another.
+
+^ GFR
+
+---
+
+> Something only less experienced people do until they're up to speed.
+
+^ GFR
 
 ---
 
@@ -323,7 +322,6 @@ Then perhaps you could integrate after a few hours. Besides, if you didn't integ
 
 
 
-* Single "What is PP" / ""What PP is not" - Use XP book def as basis; but see if our definition adds anything
 * Summarise XP Practices supporting PP into single with other material in the notes
 * Summarise Supporting XP practises onto single slide with other material in the notes
 * Combine two Kent Beck quotes about mutually supporting practices
