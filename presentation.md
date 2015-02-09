@@ -490,8 +490,11 @@
   * Progressively introduce points on slide
   * Talk about one point per slide
 
-* Consistently format the notes throughout the presentation (e.g. use bullets)
+* Consistently format the notes throughout the presentation (e.g. use bullets
+
+* Add initials next to notes to indicate who's going to say what
+  * Maybe use square brackets to indicate things we're not going to say
 
 * Summarise some of the lengthy notes/quotes we currently have
 
-* The practices supported by pairing are probably more relevant/useful.
+* The practices supported by pairing are probably more relevant/useful - it might be better to have these first or even delete the other ones.
