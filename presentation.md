@@ -296,24 +296,46 @@
 
 ---
 
-* Exhaustion / fatigue
-    * Take regular breaks
-* Difficult to articulate thought processes
-    * Sketching on a whiteboard / piece of paper
-    * Pseudo code sketching
-* No time for personal admin
-    * Don't try to pair all day
+## Exhaustion / fatigue
+
+* Take regular breaks
 
 ---
 
-* Some types of task are hard to pair on e.g. writing commit notes/documentation
-    * Allow a single person to write and have the pair review it at the end
-* One person hogs/avoids the keyboard
-    * Pairing ping-pong
-* One person is distracted by email/IM notifications
-    * Switch off all distractions
-* Differences in development environment e.g. editor, shell, OS
-    * Agree on a common development environment
+## Difficult to articulate thought processes
+
+* Sketching on a whiteboard / piece of paper
+* Pseudo code sketching
+
+---
+
+## No time for personal admin
+
+* Don't try to pair all day
+
+---
+
+## Some types of task are hard to pair on e.g. writing commit notes/documentation
+
+* Allow a single person to write and have the pair review it at the end
+
+---
+
+## One person hogs/avoids the keyboard
+
+* Pairing ping-pong
+
+---
+
+## One person is distracted by email/IM notifications
+
+* Switch off all distractions
+
+---
+
+## Differences in development environment e.g. editor, shell, OS
+
+* Agree on a common development environment
 
 ---
 
@@ -335,8 +357,7 @@
 
 
 
-* Split last section into one point per slide
-  * Add point about physical environment - moving furniture, sharing monitor
+* Add point about physical environment - moving furniture, sharing monitor
 * Add slide/points about:
   * Pairing more often will make you better at pairing
   * an increase in number of people pairing making it easier for anyone in the team to pair.
