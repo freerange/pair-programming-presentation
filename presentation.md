@@ -245,10 +245,6 @@
 
 ---
 
-![fit](collective-code-ownership.gif)
-
----
-
 ![fit](feedback-loops.gif)
 
 ---
@@ -335,7 +331,7 @@
 
 
 
-* Remove Collective Code Ownership diagram
+
 * Talk about rapid feedback of pairing versus slow feedback of e.g. pull requests or even individuals committing master
 * Painful -> Hard work
 * Split last section into one point per slide
