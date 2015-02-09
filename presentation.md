@@ -335,3 +335,6 @@
 * Talk about rapid feedback of pairing versus slow feedback of e.g. pull requests or even individuals committing master
 * Split last section into one point per slide
   * Add point about physical environment - moving furniture, sharing monitor
+* Add slide/points about:
+  * Pairing more often will make you better at pairing
+  * an increase in number of people pairing making it easier for anyone in the team to pair.
