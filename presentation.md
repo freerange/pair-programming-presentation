@@ -215,9 +215,7 @@
 * Collective Ownership
 * Continuous Integration
 
-^ You couldn't possibly have just enough design for today's code. You would design yourself into a corner and then you'd be stuck, unable to continue evolving the system. Unless:
-^ You were programming with a partner, **so you were confident you were making a simple design, not a stupid design.**
-^ Then perhaps you could get away with doing the best possible job of making a design for today.
+^ Pairing helps give you confidence that you've kept the system as simple as possible for the current requirements.
 
 ---
 
@@ -227,9 +225,7 @@
 * Collective Ownership
 * Continuous Integration
 
-^ You couldn't possibly write all those tests. It would take too much time. Programmers won't write tests. Unless:
-^ You are programming with a partner, **so if you can't think of another test your partner can, and if your partner feels like not bothering with the tests, you can gently rip the keyboard away.**
-^ Then perhaps programmers and customers will write tests. Besides if you don't write automated tests, the rest of XP doesn't work nearly as well.
+^ Pairing encourages you to do disciplined Test-Driven Development.
 
 ---
 
@@ -239,9 +235,8 @@
 * Collective Ownership
 * Continuous Integration
 
-^ You couldn't possibly refactor the design of the system all the time. It would take too long, it would be too hard to control, and it would most likely break the system. Unless:
-^ You program in pairs, **so you are more likely to have the courage to tackle a tough refactoring, and you are less likely to break something.**
-^ Then perhaps you could refactor whenever you saw the chance to make the system simpler, or reduce duplication, or communicate more clearly.
+^ Pairing should give you the courage to tackle a tough refactoring and reduce the chance of that you break the system.
+^ It should also encourage you to make changes to the system to keep it as simple as possible, to reduce duplication, and to better communicate the intent of the code.
 
 ---
 
@@ -251,9 +246,7 @@
 * **Collective Ownership**
 * Continuous Integration
 
-^ You couldn't possibly have everybody potentially changing anything anywhere. Folks would be breaking stuff left and right, and the cost of integration would go up dramatically. Unless:
-^ You pair program, **so you are less likely to break code, and programmers learn faster what they can profitably change.**
-^ Then perhaps you could have anyone change code anywhere in the system when they see the chance to improve it. Besides, without collective ownership the rate of evolution of the design slows dramatically.
+^ Pairing should give you more confidence to change parts of the system that you're not familiar with.
 
 ---
 
@@ -263,9 +256,7 @@
 * Collective Ownership
 * **Continuous Integration**
 
-^ You couldn't possibly integrate after only a few hours of work. Integration takes far too long and there are too many conflicts and chances to accidentally break something. Unless:
-^ You program in pairs, **so there are half as many streams of changes to integrate.**
-^ Then perhaps you could integrate after a few hours. Besides, if you didn't integrate quickly the chance of conflict rises and the cost of integration goes up steeply.
+^ With everyone pairing there is less un-integrated code at any given time and therefore less chance of merge conflicts.
 
 ---
 
