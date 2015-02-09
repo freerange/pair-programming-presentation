@@ -296,75 +296,69 @@
 
 ### Collective Code Ownership
 
-Pairing helps collective code ownership work.
+* Develop a consistent shared:
+    * coding style
+    * design approach
+    * architectural approach
+    * domain model
+    * ubiquitous language
+    * culture
 
-* What is it?
-  * Everyone is empowered to change any part of the system at any time.
-  * If it's working you shouldn't be able to tell that an individual wrote a certain piece of the software - individual coding styles on a large code base are bad.
-
-* How does pairing help?
-  * Develop a consistent shared a coding style, design approach, architectural approach, domain model, ubiquitous language, and culture across the team.
-  * Prevents silos of knowledge.
-
-^ Increase your Bus Factor.
-c.f. Coding Standard
+^
+- Pairing helps collective code ownership work.
+- Increase your Bus Factor.
+- c.f. Coding Standard
+- Everyone is empowered to change any part of the system at any time.
+- If it's working you shouldn't be able to tell that an individual wrote a certain piece of the software - individual coding styles on a large code base are bad.
+- Prevents silos of knowledge.
 
 ---
 
 ### Quality
 
-Pairing results in better quality code.
+* Helps catch edge cases
+* Encourages discipline
+* Continuous code review
 
-* What is it?
-  * Rate of new bugs.
-  * Cost of maintenance.
-
-* How does pairing help?
-  * Helps catch edge cases that might be missed when working alone.
-  * Encourages discipline e.g. sticking to test-driven development.
-  * Is like a continuous code review giving rapid feedback.
-
-^ "Turn the dial up to 10"
-
----
-
-### Communication
-
-Pairing helps you get to know and understand each other better.
-
-* How does pairing help?
-  * Helps avoid people getting stuck and being afraid to ask for help
-  * A more experienced person helping a less experienced person
-
-
----
-
-### Collaboration
-
-* Inter-disciplinary collaboration
+^
+- Pairing results in better quality code.
+- "Turn the dial up to 10"
+- Rate of new bugs.
+- Cost of maintenance.
+- Helps catch edge cases that might be missed when working alone.
+- e.g. sticking to test-driven development and more likely to refactor.
+- Is like a continuous code review giving rapid feedback.
 
 ---
 
 ### Efficiency
 
-* Helps avoid people ending up down unnecessary rabbit holes
+* Avoid going down rabbit holes
 * Improved focus/flow
+* On the job training
 
-^ Typing is not the bottleneck
+^
+- Typing is not the bottleneck
+- Helps avoid people ending up down unnecessary rabbit holes
+- A more experienced person helping a less experienced person
 
 ---
 
 ### Simplicity
 
-* Makes it easier to spot common areas of code that you might be able to refactor
-* Simpler solutions i.e. less over-engineering
+* Identify duplicate code
+* Avoid over-engineering
+
+^
+- Makes it easier to spot common areas of code that you might be able to refactor
 
 ---
 
-### Discipline
+### Avoid people feeling afraid to ask for help
 
-* Pair reminds you to refactor
-* Easier to be more disciplined e.g. test-first / TDD
+---
+
+### Opportunities for inter-disciplinary collaboration
 
 ---
 
