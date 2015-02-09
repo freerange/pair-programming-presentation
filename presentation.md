@@ -230,13 +230,10 @@
 
 ---
 
-> Any one practice doesn't stand well on its own. They require the other practices to keep them in balance.
--- Kent Beck
-
----
-
 > The individual pieces are simple. The richness comes from the interactions of the parts.
 -- Kent Beck
+
+^ Any one practice doesn't stand well on its own. They require the other practices to keep them in balance.
 
 ---
 
@@ -338,7 +335,6 @@
 
 
 
-* Combine two Kent Beck quotes about mutually supporting practices
 * Remove Collective Code Ownership diagram
 * Talk about rapid feedback of pairing versus slow feedback of e.g. pull requests or even individuals committing master
 * Painful -> Hard work
