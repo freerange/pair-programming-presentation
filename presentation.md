@@ -407,24 +407,32 @@
   * Individual coding styles on a large code base are bad
   * "coding standards" at a higher level i.e. design approach, architectural approach, domain knowledge, ubiquitous language
   * Working on a large long-lived codebase is not the same as working on a one-person project
-* Prevents silos of knowledge - Only person X knows about widget Y
-  * Bus number
-* Results in better quality code
+  * Prevents silos of knowledge - Only person X knows about widget Y
+    * Bus number
+  * Spread domain knowledge across the team
+  * Establish a shared technical approach/culture across the team
+
+* Quality
+  * Results in better quality code
   * It's the job of the _team_ to deliver high quality software, not of any individual developer
-* Helps avoid over-engineered solutions
-* Helps avoid people getting stuck and being afraid to ask for help
-* Helps avoid people ending up down unnecessary rabbit holes
-* Helps catch edge cases that might be missed when working alone
-* Makes it easier to spot common areas of code that you might be able to refactor
-* Two heads are better than one
-* A more experienced person helping a less experienced person
-* Inter-disciplinary collaboration
-* Continuous code review e.g. fewer bugs
-* Spread domain knowledge across the team
-* Establish a shared technical approach/culture across the team
-* Simpler solutions i.e. less over-engineering
-* Improved focus/flow
-* Pair reminds you to refactor
-* Easier to be more disciplined e.g. test-first / TDD
-* Typing is not the bottleneck
-* Continuous Code Review - turn the dial up to 10 - is this a real quote?
+  * Helps catch edge cases that might be missed when working alone
+  * Continuous code review e.g. fewer bugs
+  * Continuous Code Review - turn the dial up to 10 - is this a real quote?
+
+* Communication/social
+  * Helps avoid people getting stuck and being afraid to ask for help
+  * A more experienced person helping a less experienced person
+  * Inter-disciplinary collaboration
+
+* Efficiency
+  * Helps avoid people ending up down unnecessary rabbit holes
+  * Improved focus/flow
+  ^ Typing is not the bottleneck
+
+* Simplicity
+  * Makes it easier to spot common areas of code that you might be able to refactor
+  * Simpler solutions i.e. less over-engineering
+
+* Discipline
+  * Pair reminds you to refactor
+  * Easier to be more disciplined e.g. test-first / TDD
