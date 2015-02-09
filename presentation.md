@@ -289,6 +289,9 @@
 * Be patient - pairing is a skill which takes time to learn
 * Decide to try a new tactic
 * Pair with someone different
+* Encourage your colleagues to pair more often
+
+^ The more everyone pairs the easiest it will get
 
 ---
 
@@ -357,14 +360,3 @@
 * http://codon.com/i-have-no-idea-what-im-doing
 * http://en.wikipedia.org/wiki/Impostor_syndrome
 * http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
-
-
-
-
-
-
-
-
-* Add slide/points about:
-  * Pairing more often will make you better at pairing
-  * an increase in number of people pairing making it easier for anyone in the team to pair.
