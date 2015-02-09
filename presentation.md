@@ -56,15 +56,11 @@
 
 ---
 
-> Pairing is *dynamic*. If two people pair in the morning, in the afternoon they might easily be paired with other folks.
+> Pairing is *dynamic*.
 
----
-
-> If you have responsibility for a task in an area that is *unfamiliar* to you, you might ask someone with *recent experience* to pair with you.
-
----
-
-> More often, anyone on the team will do as a partner.
+^ If two people pair in the morning, in the afternoon they might easily be paired with other folks.
+^ If you have responsibility for a task in an area that is *unfamiliar* to you, you might ask someone with *recent experience* to pair with you.
+^ More often, anyone on the team will do as a partner.
 
 ---
 
