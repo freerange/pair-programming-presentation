@@ -144,11 +144,17 @@
 
 ---
 
-* The **coding standards** reduce the picayune squabbles.
-* Everyone is **fresh and rested**, reducing further the chance of ... uh ... discussions.
-* The pairs **write tests** together, giving them a chance to align their understanding before tackling the meat of the implementation.
-* The pairs have the **metaphor** to ground their decisions about naming and basic design.
-* The pairs are working within a **simple design**, so they can both understand what is going on.
+* Coding Standards
+* 40-hour Week
+* Testing
+* Metaphor
+* Simple Design
+
+^ The **coding standards** reduce the picayune squabbles.
+^ Everyone is **fresh and rested**, reducing further the chance of ... uh ... discussions.
+^ The pairs **write tests** together, giving them a chance to align their understanding before tackling the meat of the implementation.
+^ The pairs have the **metaphor** to ground their decisions about naming and basic design.
+^ The pairs are working within a **simple design**, so they can both understand what is going on.
 
 ---
 
@@ -322,7 +328,6 @@ Then perhaps you could integrate after a few hours. Besides, if you didn't integ
 
 
 
-* Summarise XP Practices supporting PP into single with other material in the notes
 * Summarise Supporting XP practises onto single slide with other material in the notes
 * Combine two Kent Beck quotes about mutually supporting practices
 * Remove Collective Code Ownership diagram
