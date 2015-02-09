@@ -108,6 +108,12 @@
 
 ---
 
+## Pairing within XP
+
+^ JM: A lot of why I think pairing is a good thing comes from my understanding of how XP is supposed to work. Here are the practices that XP is made up of.
+
+---
+
 ## XP Practices (1-6)
 
 * The Planning Game
@@ -116,8 +122,6 @@
 * Simple Design
 * Testing
 * Refactoring
-
-^ Even if you don't know it you're already doing many of these
 
 ---
 
@@ -130,7 +134,7 @@
 * On-site Customer
 * Coding Standards
 
-^ And these.
+^ JM: Even if you don't know it you're already doing many of these
 
 ---
 
@@ -138,7 +142,47 @@
 
 ---
 
-> You can't possibly write all the production code in pairs. It will be too slow. What if two people don't get along? Unless:
+> You can't possibly write all the production code in pairs. It will be too slow. What if two people don't get along?
+
+---
+
+* **Coding Standards**
+* 40-hour Week
+* Testing
+* Metaphor
+* Simple Design
+
+^ The **coding standards** reduce the picayune squabbles.
+
+---
+
+* Coding Standards
+* **40-hour Week**
+* Testing
+* Metaphor
+* Simple Design
+
+^ Everyone is **fresh and rested**, reducing further the chance of ... uh ... discussions.
+
+---
+
+* Coding Standards
+* 40-hour Week
+* **Testing**
+* Metaphor
+* Simple Design
+
+^ The pairs **write tests** together, giving them a chance to align their understanding before tackling the meat of the implementation.
+
+---
+
+* Coding Standards
+* 40-hour Week
+* Testing
+* **Metaphor**
+* Simple Design
+
+^ The pairs have the **metaphor** to ground their decisions about naming and basic design.
 
 ---
 
@@ -146,12 +190,8 @@
 * 40-hour Week
 * Testing
 * Metaphor
-* Simple Design
+* **Simple Design**
 
-^ The **coding standards** reduce the picayune squabbles.
-^ Everyone is **fresh and rested**, reducing further the chance of ... uh ... discussions.
-^ The pairs **write tests** together, giving them a chance to align their understanding before tackling the meat of the implementation.
-^ The pairs have the **metaphor** to ground their decisions about naming and basic design.
 ^ The pairs are working within a **simple design**, so they can both understand what is going on.
 
 ---
