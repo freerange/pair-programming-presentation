@@ -541,3 +541,7 @@
 * The practices supported by pairing are probably more relevant/useful - it might be better to have these first or even delete the other ones.
 
 * Come up with questions we can ask at the end to guage interest in pairing - do the team want to do more, less, the same?
+
+* Differentiate quotes from headings
+  * Add quote attribution
+  * Style quotes in italics and the emphasis in bold
