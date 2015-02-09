@@ -8,6 +8,14 @@
 
 ---
 
+## Disclaimer
+
+* Not a prescription
+* Not a criticism
+* Just our opinions
+
+---
+
 # Overview
 
 * What is pair programming?
@@ -15,14 +23,6 @@
 * Why we sometimes find it hard to **start** pairing
 * Why we sometimes find the **process** of pairing difficult
 * Q&A
-
----
-
-## Disclaimer
-
-* Not a prescription
-* Not a criticism
-* Just our opinions
 
 ---
 
