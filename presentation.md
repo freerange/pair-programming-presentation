@@ -248,7 +248,7 @@
 * Continuous Integration
 
 ^
-- Pairing should give you the courage to tackle a tough refactoring and reduce the chance of that you break the system.
+- Pairing should give you the courage to tackle a tough refactoring and reduce the chance that you break the system.
 - It should also encourage you to make changes to the system to keep it as simple as possible, to reduce duplication, and to better communicate the intent of the code.
 
 ---
@@ -426,7 +426,7 @@
 * Encourage your colleagues to pair more often
 
 ^
-- The more everyone pairs the easiest it will get
+- The more everyone pairs the easier it will get
 
 ---
 
