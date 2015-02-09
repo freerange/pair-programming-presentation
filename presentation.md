@@ -24,6 +24,8 @@
 * Why we sometimes find the **process** of pairing difficult
 * Q&A
 
+^ Please save any questions until the end
+
 ---
 
 # What is Pair Programming?
@@ -295,6 +297,14 @@
 
 ---
 
+## I feel like I need to pick up another story as soon as I finish one
+
+* It’s better for the team if you:
+  * Help someone else
+  * Spend time refactoring code
+
+---
+
 # Why we sometimes find the process of pairing difficult
 
 ---
@@ -347,6 +357,15 @@
 * Be prepared to move furniture (e.g. drawers)
 * Make your pair feel comfortable
 * Consider using two mirrored displays
+
+---
+
+# Summary
+
+* Just our opinions
+* Come up with an approach as a team
+* Make that approach more explicit
+* If you decide not to do any/much pair programming then how will you compensate?
 
 ---
 
