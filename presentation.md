@@ -8,14 +8,6 @@
 
 ---
 
-# Disclaimer
-
-* Not a prescription
-* Not a criticism
-* Just our opinions
-
----
-
 # Overview
 
 * What is pair programming?
@@ -26,11 +18,19 @@
 
 ---
 
+## Disclaimer
+
+* Not a prescription
+* Not a criticism
+* Just our opinions
+
+---
+
 # What is Pair Programming?
 
 ---
 
-# XP: The "White Book"
+## XP: The "White Book"
 
 ![inline](extreme-programming-explained.jpg)
 
@@ -80,7 +80,7 @@
 
 ---
 
-# What Pair Programming is Not
+## What Pair Programming is Not
 
 ---
 
@@ -110,7 +110,7 @@
 
 ---
 
-# XP Practices (1-6)
+## XP Practices (1-6)
 
 * The Planning Game
 * Small Releases
@@ -123,7 +123,7 @@
 
 ---
 
-# XP Practices (7-12)
+## XP Practices (7-12)
 
 * Pair Programming
 * Collective Ownership
@@ -136,7 +136,7 @@
 
 ---
 
-# XP Practices Supporting Pairing
+## XP Practices Supporting Pairing
 
 ---
 
@@ -166,11 +166,11 @@
 
 ---
 
-# XP Practices Supported By Pairing
+## XP Practices Supported By Pairing
 
 ---
 
-# Simple Design
+### Simple Design
 
 You couldn't possibly have just enough design for today's code. You would design yourself into a corner and then you'd be stuck, unable to continue evolving the system. Unless:
 
@@ -180,7 +180,7 @@ Then perhaps you could get away with doing the best possible job of making a des
 
 ---
 
-# Testing
+### Testing
 
 You couldn't possibly write all those tests. It would take too much time. Programmers won't write tests. Unless:
 
@@ -190,7 +190,7 @@ Then perhaps programmers and customers will write tests. Besides if you don't wr
 
 ---
 
-# Refactoring
+### Refactoring
 
 You couldn't possibly refactor the design of the system all the time. It would take too long, it would be too hard to control, and it would most likely break the system. Unless:
 
@@ -200,7 +200,7 @@ Then perhaps you could refactor whenever you saw the chance to make the system s
 
 ---
 
-# Collective Ownership
+### Collective Ownership
 
 You couldn't possibly have everybody potentially changing anything anywhere. Folks would be breaking stuff left and right, and the cost of integration would go up dramatically. Unless:
 
@@ -210,7 +210,7 @@ Then perhaps you could have anyone change code anywhere in the system when they 
 
 ---
 
-# Continuous Integration
+### Continuous Integration
 
 You couldn't possibly integrate after only a few hours of work. Integration takes far too long and there are too many conflicts and chances to accidentally break something. Unless:
 
@@ -250,7 +250,7 @@ Then perhaps you could integrate after a few hours. Besides, if you didn't integ
 
 ---
 
-**I feel intimidated to work with someone more experienced**
+## I feel intimidated to work with someone more experienced
 
 * *Nobody* knows what they're doing
 * The impostor syndrome
@@ -262,7 +262,7 @@ Then perhaps you could integrate after a few hours. Besides, if you didn't integ
 
 ---
 
-**I don't want to disturb someone to ask them to pair**
+## I don't want to disturb someone to ask them to pair
 
 * Agree explicit rules about interruption for pairing
 * Fixed pair rotation times e.g. every day/half-day
@@ -270,7 +270,7 @@ Then perhaps you could integrate after a few hours. Besides, if you didn't integ
 
 ---
 
-**No other developer available to pair e.g. stuck in meetings**
+## No other developer available to pair e.g. stuck in meetings
 
 * Core pairing hours
 * Doing more pairing ought to reduce the need for as many meetings
@@ -279,7 +279,7 @@ Then perhaps you could integrate after a few hours. Besides, if you didn't integ
 
 ---
 
-**I found my last pairing session very "painful"**
+## I found my last pairing session very "painful"
 
 * Be patient - pairing is a skill which takes time to learn
 * Decide to try a new tactic
