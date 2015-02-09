@@ -166,53 +166,67 @@
 
 ---
 
-### Simple Design
+* **Simple Design**
+* Testing
+* Refactoring
+* Collective Ownership
+* Continuous Integration
 
-You couldn't possibly have just enough design for today's code. You would design yourself into a corner and then you'd be stuck, unable to continue evolving the system. Unless:
-
-* You were programming with a partner, **so you were confident you were making a simple design, not a stupid design.**
-
-Then perhaps you could get away with doing the best possible job of making a design for today.
-
----
-
-### Testing
-
-You couldn't possibly write all those tests. It would take too much time. Programmers won't write tests. Unless:
-
-* You are programming with a partner, **so if you can't think of another test your partner can, and if your partner feels like not bothering with the tests, you can gently rip the keyboard away.**
-
-Then perhaps programmers and customers will write tests. Besides if you don't write automated tests, the rest of XP doesn't work nearly as well.
+^ You couldn't possibly have just enough design for today's code. You would design yourself into a corner and then you'd be stuck, unable to continue evolving the system. Unless:
+^ You were programming with a partner, **so you were confident you were making a simple design, not a stupid design.**
+^ Then perhaps you could get away with doing the best possible job of making a design for today.
 
 ---
 
-### Refactoring
+* Simple Design
+* **Testing**
+* Refactoring
+* Collective Ownership
+* Continuous Integration
 
-You couldn't possibly refactor the design of the system all the time. It would take too long, it would be too hard to control, and it would most likely break the system. Unless:
-
-* You program in pairs, **so you are more likely to have the courage to tackle a tough refactoring, and you are less likely to break something.**
-
-Then perhaps you could refactor whenever you saw the chance to make the system simpler, or reduce duplication, or communicate more clearly.
-
----
-
-### Collective Ownership
-
-You couldn't possibly have everybody potentially changing anything anywhere. Folks would be breaking stuff left and right, and the cost of integration would go up dramatically. Unless:
-
-* You pair program, **so you are less likely to break code, and programmers learn faster what they can profitably change.**
-
-Then perhaps you could have anyone change code anywhere in the system when they see the chance to improve it. Besides, without collective ownership the rate of evolution of the design slows dramatically.
+^ You couldn't possibly write all those tests. It would take too much time. Programmers won't write tests. Unless:
+^ You are programming with a partner, **so if you can't think of another test your partner can, and if your partner feels like not bothering with the tests, you can gently rip the keyboard away.**
+^ Then perhaps programmers and customers will write tests. Besides if you don't write automated tests, the rest of XP doesn't work nearly as well.
 
 ---
 
-### Continuous Integration
+* Simple Design
+* Testing
+* **Refactoring**
+* Collective Ownership
+* Continuous Integration
 
-You couldn't possibly integrate after only a few hours of work. Integration takes far too long and there are too many conflicts and chances to accidentally break something. Unless:
+^ You couldn't possibly refactor the design of the system all the time. It would take too long, it would be too hard to control, and it would most likely break the system. Unless:
+^ You program in pairs, **so you are more likely to have the courage to tackle a tough refactoring, and you are less likely to break something.**
+^ Then perhaps you could refactor whenever you saw the chance to make the system simpler, or reduce duplication, or communicate more clearly.
 
-* You program in pairs, **so there are half as many streams of changes to integrate.**
+---
 
-Then perhaps you could integrate after a few hours. Besides, if you didn't integrate quickly the chance of conflict rises and the cost of integration goes up steeply.
+* Simple Design
+* Testing
+* Refactoring
+* **Collective Ownership**
+* Continuous Integration
+
+^ You couldn't possibly have everybody potentially changing anything anywhere. Folks would be breaking stuff left and right, and the cost of integration would go up dramatically. Unless:
+^ You pair program, **so you are less likely to break code, and programmers learn faster what they can profitably change.**
+^ Then perhaps you could have anyone change code anywhere in the system when they see the chance to improve it. Besides, without collective ownership the rate of evolution of the design slows dramatically.
+
+---
+
+* Simple Design
+* Testing
+* Refactoring
+* Collective Ownership
+* **Continuous Integration**
+
+^ You couldn't possibly integrate after only a few hours of work. Integration takes far too long and there are too many conflicts and chances to accidentally break something. Unless:
+^ You program in pairs, **so there are half as many streams of changes to integrate.**
+^ Then perhaps you could integrate after a few hours. Besides, if you didn't integrate quickly the chance of conflict rises and the cost of integration goes up steeply.
+
+---
+
+## Mutually Supporting Practices
 
 ---
 
@@ -324,7 +338,6 @@ Then perhaps you could integrate after a few hours. Besides, if you didn't integ
 
 
 
-* Summarise Supporting XP practises onto single slide with other material in the notes
 * Combine two Kent Beck quotes about mutually supporting practices
 * Remove Collective Code Ownership diagram
 * Talk about rapid feedback of pairing versus slow feedback of e.g. pull requests or even individuals committing master
