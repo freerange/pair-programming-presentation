@@ -260,14 +260,9 @@
 
 ---
 
-## Mutually Supporting Practices
+## Mutually Supporting XP Practices
 
----
-
-> The individual pieces are simple. The richness comes from the interactions of the parts.
--- Kent Beck
-
-^ Any one practice doesn't stand well on its own. They require the other practices to keep them in balance.
+^ We've discussed some of the practices enabled by pairing, and some of those that complement pairing. We'll now look at how all those practices come together in XP.
 
 ---
 
@@ -276,6 +271,20 @@
 ---
 
 ![fit](xp-mutually-supporting-practices-with-pairing-highlighted.png)
+
+^ It's not important to understand everything that's going on in this diagram, but it is important to note that Pair Programming is at the centre of the XP practices.
+
+---
+
+> The individual pieces are simple. The richness comes from the interactions of the parts.
+-- Kent Beck
+
+^ Kent Beck sums this up nicely...
+^ [Any one practice doesn't stand well on its own. They require the other practices to keep them in balance.]
+
+---
+
+## Feedback Mechanisms in XP
 
 ---
 
