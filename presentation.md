@@ -149,39 +149,40 @@
 * **Coding Standards**
 * 40-hour Week
 * Testing
-* Metaphor
+* (Metaphor)
 * Simple Design
 
-^ The **coding standards** reduce the picayune squabbles.
+^ Help avoid discussion/argument over small inconsequential details.
 
 ---
 
 * Coding Standards
 * **40-hour Week**
 * Testing
-* Metaphor
+* (Metaphor)
 * Simple Design
 
-^ Everyone is **fresh and rested**, reducing further the chance of ... uh ... discussions.
+^ If everyone is fresh and rested people are likely to be less grumpy and argumentative.
 
 ---
 
 * Coding Standards
 * 40-hour Week
 * **Testing**
-* Metaphor
+* (Metaphor)
 * Simple Design
 
-^ The pairs **write tests** together, giving them a chance to align their understanding before tackling the meat of the implementation.
+^ Writing tests together helps align your understanding of the problem before tackling the implementation.
 
 ---
 
 * Coding Standards
 * 40-hour Week
 * Testing
-* **Metaphor**
+* (**Metaphor**)
 * Simple Design
 
+^ We're not really doing this at FutureLearn but it might be a useful exercise to think about outside of this presentation.
 ^ The pairs have the **metaphor** to ground their decisions about naming and basic design.
 
 ---
@@ -189,10 +190,10 @@
 * Coding Standards
 * 40-hour Week
 * Testing
-* Metaphor
+* (Metaphor)
 * **Simple Design**
 
-^ The pairs are working within a **simple design**, so they can both understand what is going on.
+^ The pairs are working within a simple design, so they can both understand what is going on.
 
 ---
 
@@ -492,3 +493,5 @@
 * Consistently format the notes throughout the presentation (e.g. use bullets)
 
 * Summarise some of the lengthy notes/quotes we currently have
+
+* The practices supported by pairing are probably more relevant/useful.
