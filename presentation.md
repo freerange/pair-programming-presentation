@@ -247,6 +247,8 @@
 
 ![fit](feedback-loops.gif)
 
+^ Talk about rapid feedback of pairing versus slow feedback of e.g. pull requests or even individuals committing master
+
 ---
 
 # Why we sometimes find it hard to start pairing
@@ -332,7 +334,7 @@
 
 
 
-* Talk about rapid feedback of pairing versus slow feedback of e.g. pull requests or even individuals committing master
+
 * Split last section into one point per slide
   * Add point about physical environment - moving furniture, sharing monitor
 * Add slide/points about:
