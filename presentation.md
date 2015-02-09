@@ -1,7 +1,3 @@
-![fit](gfr-logo.png)
-
----
-
 # Pair Programming
 
 ![](pairon.jpg)
@@ -16,12 +12,12 @@
 
 ---
 
-# Overview
+# Pair Programming
 
-* What is pair programming?
-* Why we think pair programming is a Good Thing™
-* Why we sometimes find it hard to **start** pairing
-* Why we sometimes find the **process** of pairing difficult
+* What is it?
+* Why we think it's a Good Thing™
+* Why we sometimes find it hard to **start**
+* Why we sometimes find it hard to **do**
 * Q&A
 
 ^ Please save any questions until the end
@@ -36,7 +32,7 @@
 
 ![inline](extreme-programming-explained.jpg)
 
-^ I'm not sure of its exact origins, but I first came across the idea in Kent Beck's book about XP. If you haven't read it, I highly recommend reading it. I thought it would be interesting to quote his definition here to see how he envisaged it.
+^ I'm not sure of its exact origins, but I first came across the idea in Kent Beck's book about XP. If you haven't read it, I highly recommend reading it. I thought it would be interesting to quote some definitions from the book to see how he envisaged it.
 
 ---
 
@@ -108,13 +104,13 @@
 
 ---
 
-## Pairing within XP
+## Benefits of pairing according to XP
 
 ^ JM: A lot of why I think pairing is a good thing comes from my understanding of how XP is supposed to work. Here are the practices that XP is made up of.
 
 ---
 
-## XP Practices (1-6)
+### XP Practices (1-6)
 
 * The Planning Game
 * Small Releases
@@ -125,7 +121,7 @@
 
 ---
 
-## XP Practices (7-12)
+### XP Practices (7-12)
 
 * Pair Programming
 * Collective Ownership
@@ -138,7 +134,7 @@
 
 ---
 
-## XP Practices Supporting Pairing
+### XP Practices Supporting Pairing
 
 ---
 
@@ -205,7 +201,7 @@
 
 ---
 
-## XP Practices Supported By Pairing
+### XP Practices Supported By Pairing
 
 ---
 
@@ -260,7 +256,7 @@
 
 ---
 
-## Mutually Supporting XP Practices
+### Mutually Supporting XP Practices
 
 ^ We've discussed some of the practices enabled by pairing, and some of those that complement pairing. We'll now look at how all those practices come together in XP.
 
@@ -294,39 +290,62 @@
 
 ---
 
-## Makes Collective Code Ownership work
-
-* What does it mean?
-* How do we make it work?
-* Individual coding styles on a large code base are bad
-* "coding standards" at a higher level i.e. design approach, architectural approach, domain knowledge, ubiquitous language
-* Working on a large long-lived codebase is not the same as working on a one-person project
-* Prevents silos of knowledge - Only person X knows about widget Y
-  * Bus number
-* Spread domain knowledge across the team
-* Establish a shared technical approach/culture across the team
+## Benefits of pairing according to GFR
 
 ---
 
-## Quality
+### Collective Code Ownership
 
-* Results in better quality code
-* It's the job of the _team_ to deliver high quality software, not of any individual developer
-* Helps catch edge cases that might be missed when working alone
-* Continuous code review e.g. fewer bugs
-* Continuous Code Review - turn the dial up to 10 - is this a real quote?
+Pairing helps collective code ownership work.
+
+* What is it?
+  * Everyone is empowered to change any part of the system at any time.
+  * If it's working you shouldn't be able to tell that an individual wrote a certain piece of the software - individual coding styles on a large code base are bad.
+
+* How does pairing help?
+  * Develop a consistent shared a coding style, design approach, architectural approach, domain model, ubiquitous language, and culture across the team.
+  * Prevents silos of knowledge.
+
+^ Increase your Bus Factor.
+c.f. Coding Standard
 
 ---
 
-## Communication/social
+### Quality
 
-* Helps avoid people getting stuck and being afraid to ask for help
-* A more experienced person helping a less experienced person
+Pairing results in better quality code.
+
+* What is it?
+  * Rate of new bugs.
+  * Cost of maintenance.
+
+* How does pairing help?
+  * Helps catch edge cases that might be missed when working alone.
+  * Encourages discipline e.g. sticking to test-driven development.
+  * Is like a continuous code review giving rapid feedback.
+
+^ "Turn the dial up to 10"
+
+---
+
+### Communication
+
+Pairing helps you get to know and understand each other better.
+
+* How does pairing help?
+  * Helps avoid people getting stuck and being afraid to ask for help
+  * A more experienced person helping a less experienced person
+
+
+---
+
+### Collaboration
+
 * Inter-disciplinary collaboration
 
 ---
 
-## Efficiency
+### Efficiency
 
 * Helps avoid people ending up down unnecessary rabbit holes
 * Improved focus/flow
@@ -335,14 +354,14 @@
 
 ---
 
-## Simplicity
+### Simplicity
 
 * Makes it easier to spot common areas of code that you might be able to refactor
 * Simpler solutions i.e. less over-engineering
 
 ---
 
-## Discipline
+### Discipline
 
 * Pair reminds you to refactor
 * Easier to be more disciplined e.g. test-first / TDD
@@ -462,6 +481,8 @@
 * Come up with an approach as a team
 * Make that approach more explicit
 * If you decide not to do any/much pair programming then how will you compensate?
+* Working on a large long-lived codebase is not the same as working on a one-person project
+* It's the job of the _team_ to deliver high quality software, not of any individual developer
 
 ---
 
@@ -475,6 +496,10 @@
 * http://codon.com/i-have-no-idea-what-im-doing
 * http://en.wikipedia.org/wiki/Impostor_syndrome
 * http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+
+---
+
+![fit](gfr-logo.png)
 
 ---
 
@@ -498,3 +523,5 @@
 * Summarise some of the lengthy notes/quotes we currently have
 
 * The practices supported by pairing are probably more relevant/useful - it might be better to have these first or even delete the other ones.
+
+* Come up with questions we can ask at the end to guage interest in pairing - do the team want to do more, less, the same?
