@@ -282,7 +282,7 @@
 
 ---
 
-## I found my last pairing session very "painful"
+## I found my last pairing session hard work
 
 * Be patient - pairing is a skill which takes time to learn
 * Decide to try a new tactic
@@ -333,6 +333,5 @@
 
 
 * Talk about rapid feedback of pairing versus slow feedback of e.g. pull requests or even individuals committing master
-* Painful -> Hard work
 * Split last section into one point per slide
   * Add point about physical environment - moving furniture, sharing monitor
