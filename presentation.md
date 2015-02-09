@@ -360,3 +360,21 @@
 * http://codon.com/i-have-no-idea-what-im-doing
 * http://en.wikipedia.org/wiki/Impostor_syndrome
 * http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+
+---
+
+# TODO
+
+* Why we think pairing is a Good Thing™
+  * Merge ideas/points from our Google Doc
+
+* Why we sometimes find it hard to start/doing pairing
+  * Use shorter headings
+  * Use shorter bullet points
+  * Move some of the text to notes
+  * Progressively introduce points on slide
+  * Talk about one point per slide
+
+* Consistently format the notes throughout the presentation (e.g. use bullets)
+
+* Summarise some of the lengthy notes/quotes we currently have
