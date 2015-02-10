@@ -693,28 +693,10 @@
 
 # TODO
 
-* Why we think pairing is a Good Thing™
-  * Merge ideas/points from our Google Doc
-
-* Why we sometimes find it hard to start/doing pairing
-  * Use shorter headings
-  * Use shorter bullet points
-  * Move some of the text to notes
-  * Progressively introduce points on slide
-  * Talk about one point per slide
-
 * Add initials next to notes to indicate who's going to say what
   * Maybe use square brackets to indicate things we're not going to say
 
-* Summarise some of the lengthy notes/quotes we currently have
-
 * The practices supported by pairing are probably more relevant/useful - it might be better to have these first or even delete the other ones.
-
-* Come up with questions we can ask at the end to guage interest in pairing - do the team want to do more, less, the same?
-
-* Differentiate quotes from headings
-  * Add quote attribution?
-  * Style quotes in italics and the emphasis in bold?
 
 * Where does "Feedback Mechanisms in XP" live?
 
