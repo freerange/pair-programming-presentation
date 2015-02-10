@@ -686,10 +686,10 @@
 
 ^
 - *-> JEM
-- We wanted to re-emphasise that these are just our opinions
-- Pairing is definitely hard, but we think it pays off in the long run.
-- We think the most important thing is to come up with an approach as a team and to make that approach very explicit.
-- It's the job of the _team_, not just that of an individual developer, to deliver high quality software that solves the business problem.
+- We wanted to re-iterate that these are just our opinions.
+- Pairing is definitely hard, or at least doing it well is hard, but we're convinced it pays off in the long run.
+- The more you pair and the more your colleagues pair, the easier it will get.
+- We'd recommend that you come up with an approach as a team, make that approach very explicit, stick to that approach for a while but keep evaluating how it's working.
 
 ---
 
@@ -705,8 +705,6 @@
 
 * http://www.extremeprogramming.org/
 * http://codon.com/i-have-no-idea-what-im-doing
-* http://en.wikipedia.org/wiki/Impostor_syndrome
-* http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 
 ---
 
