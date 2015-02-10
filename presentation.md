@@ -104,7 +104,6 @@
 - If two people pair in the morning, in the afternoon they might easily be paired with other folks.
 - If you have responsibility for a task in an area that is *unfamiliar* to you, you might ask someone with *recent experience* to pair with you.
 - More often, anyone on the team will do as a partner.
-- We find it interesting that they're talking about swapping pairs every half day
 
 ---
 
@@ -113,7 +112,7 @@
 
 ^
 - Pairing is... [Read the quote]
-- Obviously this doesn't mean that you're both trying to type at the same time.
+- Obviously this doesn't mean that you're both trying to type at the same time, just that you're focussed on a single output.
 
 ---
 
@@ -138,7 +137,7 @@
 ## What Pair Programming is Not
 
 ^
-- We've picked out a couple more quotes from the book and come up with a couple of our own to explain what pair programming is not.
+- We've picked out a couple more quotes from the book and come up with one of our own to explain what pair programming is not.
 
 ---
 
@@ -186,6 +185,7 @@
 
 ^
 - Here are the first six practices that make up XP.
+- [Read the list]
 
 ---
 
@@ -200,8 +200,8 @@
 
 ^
 - And here's the second six.
-- It's not super important to know what all these mean at the moment.
-- Even if you don't know it you're already doing many of these.
+- [Read the list]
+- It's not super important to know what all these mean at the moment, but it's worth noting that you're actually doing most of them.
 
 ---
 
@@ -231,7 +231,7 @@
 * Simple Design
 
 ^
-- [Read highlighted bullet point]
+- Coding Standards
 - Help avoid discussion and argument over small inconsequential details.
 
 ---
@@ -243,7 +243,7 @@
 * Simple Design
 
 ^
-- [Read highlighted bullet point]
+- 40-hour Week
 - If everyone is fresh and rested people are less likely to be grumpy and argumentative.
 
 ---
@@ -255,7 +255,7 @@
 * Simple Design
 
 ^
-- [Read highlighted bullet point]
+- Testing
 - Writing tests together helps align your understanding of the problem before tackling the implementation.
 
 ---
@@ -267,7 +267,7 @@
 * Simple Design
 
 ^
-- [Read highlighted bullet point]
+- Metaphor
 - The book explains this by saying...
 - "The pairs have the Metaphor to ground their decisions about naming and basic design."
 - We don't really have this at FutureLearn but it's something that might be worth bearing in mind.
@@ -281,7 +281,7 @@
 * **Simple Design**
 
 ^
-- [Read highlighted bullet point]
+- Simple Design
 - Having the simplest possible design makes it easier to communicate about making a change.
 
 ---
@@ -290,6 +290,7 @@
 -- XP Explained
 
 ^
+- Another quote from the book...
 - [Read the quote]
 
 ---
@@ -320,7 +321,7 @@
 * Continuous Integration
 
 ^
-- [Read highlighted bullet point]
+- Simple Design
 - Pairing helps give you confidence that you've kept the system as simple as possible for the current requirements.
 
 ---
@@ -332,7 +333,7 @@
 * Continuous Integration
 
 ^
-- [Read highlighted bullet point]
+- Testing
 - Pairing encourages you to do disciplined Test-Driven Development.
 
 ---
@@ -344,7 +345,7 @@
 * Continuous Integration
 
 ^
-- [Read highlighted bullet point]
+- Refactoring
 - Pairing should give you the courage to tackle a tough refactoring and reduce the chance that you break the system.
 - It should also encourage you to make changes to the system to keep it as simple as possible, to reduce duplication, and to better communicate the intent of the code.
 
@@ -357,7 +358,7 @@
 * Continuous Integration
 
 ^
-- [Read highlighted bullet point]
+- Collective Ownership
 - Pairing should give you more confidence to change parts of the system that you're not familiar with.
 
 ---
@@ -369,7 +370,7 @@
 * **Continuous Integration**
 
 ^
-- [Read highlighted bullet point]
+- Continuous Integration
 - With everyone pairing there is less unintegrated code at any given time and therefore less chance of merge conflicts.
 
 ---
@@ -388,7 +389,7 @@
 ![fit](xp-mutually-supporting-practices-with-pairing-highlighted.png)
 
 ^
-- It's not important to understand everything that's going on in this diagram, but it is important to note that Pair Programming is at the centre of the XP practices.
+- It's not important to understand everything that's going on in this diagram, but it is important to note that Pair Programming is at the centre of the XP process.
 
 ---
 
@@ -407,7 +408,7 @@
 ^
 - [Read the quote]
 - Given how central pairing is to the process, a question worth asking yourselves is:
-- If you decide not to do any/much pair programming then how will you compensate?
+- If you decide not to do much pair programming then how will you compensate?
 
 ---
 
@@ -421,33 +422,31 @@
 
 ^
 - Pairing means you get much more rapid feedback than if you rely on pull requests, code reviews and the like.
+- This diagram suggests that pair programming gives you feedback in a matter of seconds.
+- Whereas we all know that pull requests might be in the order of hours or days.
 
 ---
 
 # Why we think pairing is a Good Thing™
 
 ^
-- We've had a go at coming up with some of the reasons that we think pairing is a good thing.
+- Having talked a bit about why pairing's important, we're now going to outline some of the reasons that we think pairing is a good thing.
 
 ---
 
 ## Collective Code Ownership
 
-* Develop a consistent shared:
-    * coding style
-    * design approach
-    * architectural approach
-    * domain model
-    * ubiquitous language
-    * culture
+* Shared understanding
+* Empowering
+* Avoid silos
 
 ^
 - We think pairing helps collective code ownership work.
+- Collective Code Ownership helps develop a consistent, shared : coding style, design approach, architectural approach, domain model, ubiquitous language, and culture.
 - Working on a large long-lived codebase is not the same as working on a one-person project and you have to adapt the way you work.
-- Collective code ownership is where everyone is empowered to change any part of the system at any time.
 - If it's working you shouldn't be able to tell that an individual wrote a particular bit of the software.
+- Collective code ownership can also be described as everyone being empowered to change any part of the system at any time.
 - Working this way prevents knowledge getting stuck in silos.
-
 
 ---
 
@@ -472,6 +471,7 @@
 * On the job training
 
 ^
+- We think pairing makes the _team_ more efficient
 - It helps avoid people ending up down unnecessary rabbit holes.
 - Continuous discussion about what you're doing keeps you focussed on the problem.
 - Pairing is a way for a more experienced person to help a less experienced person.
@@ -485,6 +485,7 @@
 * Avoid over-engineering
 
 ^
+- We think pairing helps us develop a simpler system.
 - Pairing makes it easier to spot common chunks of code that you might be able to refactor.
 - The discipline of pairing helps avoid over-complicated solutions.
 
@@ -508,6 +509,7 @@
     * "Everyone here's a better programmer than I am"
 
 ^
+- [Read title]
 - You shouldn't feel intimidated to work with someone more experienced, because they probably have similar insecurities as you.
 - If you're interested in learning more about this then we can recommend Tom Stuart's talk: "I Have No Idea What I'm Doing"
 
@@ -515,52 +517,58 @@
 
 ## I don't want to disturb someone to ask them to pair
 
-* Agree explicit rules about interruption for pairing
-* Fixed pair rotation times e.g. every day/half-day
-* No need for same pair to work on same story from beginning to end
+* Agree explicit rules
+* Fixed pair rotation times
+* Multiple pairs per story
 
 ^
-- Here are some ideas to avoid this problem
-- [Read the bullet points]
+- [Read title]
+- We don't think you should ever feel as if you can't interrupt someone to ask to pair.
+- But at the very least it's worth coming up with some explicit rules about when it's ok to do it.
+- It makes it easier to find a new pair if everyone is changing pairs every day or half-day.
+- It's easier to change pairs regularly if a pair doesn't feel it has to work on the same story from beginning to end.
 
 ---
 
-## No other developer available to pair
+## I can't find another developer to pair with
 
 * Core pairing hours
-* Doing more pairing ought to reduce the need for as many meetings
-* Shorter more efficient meetings / make attendance voluntary
-* Spike on something / refactor something
+* More pairing, less meetings
+* Better meetings
+* Spike / Refactor
 
 ^
-- Here are some ideas to avoid this problem
-- [Read the bullet points]
+- [Read title]
+- We haven't tried it, but having specific hours of the day set aside for pairing might make it easier to find someone available to pair.
+- We reckon that if the team is doing a lot of pairing there shouldn't be as much need to have as many meetings.
+- Making meetings more efficient and making attendance voluntary might mean that people spend less time in meetings and are more available to pair.
+- If you really can't find someone to pair with, we'd recommend that you spike on something or find something to refactor rather than starting work on a new story.
 
 ---
 
 ## I found my last pairing session hard work
 
-* Be patient - pairing is a skill which takes time to learn
-* Decide to try a new tactic
-* Pair with someone different
-* Encourage your colleagues to pair more often
+* Patience
+* Try a new tactic
+* Someone else
+* Encouragement to pair
 
 ^
-- Here are some ideas to avoid this problem
-- [Read the bullet points]
-- The more everyone pairs the easier it will get
+- Be patient - pairing is a skill which takes time to learn.
+- Make a conscious decision to try something new the next time you pair.
+- Pair with someone different than last time.
+- Encourage your colleagues to pair more often - the more _everyone_ pairs the easier it will get to pair.
 
 ---
 
-## I feel like I need to pick up another story as soon as I finish one
+## I feel like I ought to pick up another story as soon as I finish one
 
-* It's better for the team if you:
-  * Help someone else
-  * Spend time refactoring code
+* Help someone else
+* Spend time refactoring code
 
 ^
-- We think there are advantages to keeping work-in-progress to a minimum
-- And so it's probably better to help someone else or spend time refactoring rather than start work on a new story.
+- We think that pressure isn't always healthy and there are advantages to keeping work-in-progress to a minimum.
+- And so it's probably better _for the team_ to help someone else or spend time refactoring rather than start work on a new story.
 
 ---
 
@@ -571,16 +579,17 @@
 
 ---
 
-## Exhaustion / fatigue
+## I find it tiring to pair
 
 * Take regular breaks
 
 ^
-- Pairing is tiring! We're not actually too good at this but are very aware that we should be taking more breaks. Something on the C2 Wiki mentions experienced pairs taking breaks _at least_ every 45 minutes.
+- Pairing is tiring!
+- Taking regular breaks can help keep you fresh. Aiming to take a break every 45 minutes sounds entirely reasonable to us.
 
 ---
 
-## Difficult to articulate thought processes
+## I find it difficult to articulate my thought processes
 
 * Sketching on a whiteboard / piece of paper
 * Pseudo code
@@ -592,36 +601,38 @@
 
 ---
 
-## No time for personal admin
+## I need time for personal admin
 
 * Don't try to pair all day
 * Core pairing hours?
 
 ^
-- Along with ensuring that you take regular breaks, you should leave enough time to take care of other things.
+- Along with ensuring that you take regular breaks, you should probably avoid trying to pair for eight hours a day.
+- Having the team agree on core pairing hours (you're expected to be free to pair between 11 and 4, for example) can help.
 
 ---
 
-## Some types of task are hard to pair on
+## I find it hard to pair on certain tasks
 
-* e.g. Writing documentation or commit notes
+* Give your pair space to think/write
 
 ^
+- e.g. Writing documentation or commit notes
 - Constructing english sentences can be awkward to do as a pair.
 - We find it's often better to allow one person to have a go at writing something and then the other person can review it and amend it if necessary.
 
 ---
 
-## One person hogs/avoids the keyboard
+## I find myself hogging/avoiding the keyboard
 
 * Pairing ping-pong
 
 ^
-- Alternate between having one person write a failing test and the other trying to make the test pass.
+- Ensure equal time spent driving by alternating between having one person write a failing test and the other trying to make the test pass.
 
 ---
 
-## One person is distracted by notifications
+## I find myself distracted by notifications
 
 * Switch off **all** distractions
 * Dedicated pairing machines
@@ -633,20 +644,20 @@
 
 ---
 
-## Differences in development environment
+## I find it hard to work on other's machines
 
-* e.g. editor, shell, OS
 * Common development environment
 * Dedicated pairing machines
 
 ^
+- They might use a different editor, shell or OS, for example.
 - These can cause an uneven playing field that make it hard for a pair to work effectively.
 - Consider agreeing to a common baseline development environment, even if you don't use it when you're developing alone.
 - Dedicated pairing machines make it easy to enforce a common development environment without having to encroach on a single developer's preferences.
 
 ---
 
-## Physical environment not conducive to pairing
+## I find it physically uncomfortable to pair
 
 * Be prepared to move furniture (e.g. drawers)
 * Make your pair feel comfortable
