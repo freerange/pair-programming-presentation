@@ -1,3 +1,12 @@
+![fit](gfr-logo.png)
+
+---
+
+* A talk by Chris Roos & James Mead of Go Free Range Ltd
+* Given at 2pm on 10th Feb, 2015 at FutureLearn's office
+
+---
+
 # Pair Programming
 
 ![](pairon.jpg)
@@ -705,22 +714,3 @@
 
 * http://www.extremeprogramming.org/
 * http://codon.com/i-have-no-idea-what-im-doing
-
----
-
-![fit](gfr-logo.png)
-
----
-
-# TODO
-
-* Add initials next to notes to indicate who's going to say what
-  * Maybe use square brackets to indicate things we're not going to say
-
-* The practices supported by pairing are probably more relevant/useful - it might be better to have these first or even delete the other ones.
-
-* Where does "Feedback Mechanisms in XP" live?
-
-* Instead of top-level heading slides, use the bullet point list with current one highlighted.
-
-* Add something about People Skills - http://c2.com/cgi/wiki?PeopleSkills
