@@ -3,6 +3,7 @@
 ![](pairon.jpg)
 
 ^
+- *-> CJR
 - Hi, we're Chris and James and we're going to talk to you about pair programming.
 
 ---
@@ -29,6 +30,7 @@
 * Q&A
 
 ^
+- *-> CJR
 - This is what we're going to cover.
 - [Read the bullet points]
 - Please save any questions until the end.
@@ -38,6 +40,7 @@
 # What is Pair Programming?
 
 ^
+- *-> CJR
 - Let's start by talking about what pair programming is and what it isn't.
 
 ---
@@ -169,6 +172,7 @@
 # Why we think pairing is important
 
 ^
+- *-> JEM
 - A lot of why we think pairing is important comes from our understanding of how XP is supposed to work.
 - We thought it would be useful to show you how pairing fits in with the other 11 XP practices.
 
@@ -430,6 +434,7 @@
 # Why we think pairing is a Good Thing™
 
 ^
+- *-> CJR
 - Having talked a bit about why pairing's important, we're now going to outline some of the reasons that we think pairing is a good thing.
 
 ---
@@ -494,6 +499,7 @@
 # Why we sometimes find it hard to start pairing
 
 ^
+- *-> JEM
 - So now we come on to some reasons why we sometimes find it difficult to _start_ pairing...
 
 ---
@@ -575,6 +581,7 @@
 # Why we sometimes find the process of pairing difficult
 
 ^
+- *-> CJR
 - Having talked about why we sometimes find it hard to _start_ pairing, we're now going to talk about the reasons why we sometimes find the _process_ of pairing hard.
 
 ---
@@ -678,6 +685,7 @@
 * Make that approach more explicit
 
 ^
+- *-> JEM
 - We wanted to re-emphasise that these are just our opinions
 - Pairing is definitely hard, but we think it pays off in the long run.
 - We think the most important thing is to come up with an approach as a team and to make that approach very explicit.
@@ -686,6 +694,10 @@
 ---
 
 # Q&A
+
+^
+- *-> CJR
+- Any questions?
 
 ---
 
