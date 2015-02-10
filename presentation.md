@@ -15,6 +15,7 @@
 # Pair Programming
 
 * What is it?
+* Why we think it's important
 * Why we think it's a Good Thing™
 * Why we sometimes find it hard to **start**
 * Why we sometimes find it hard to **do**
@@ -107,18 +108,14 @@
 
 ---
 
-# Why we think pairing is a Good Thing™
-
----
-
-## Benefits of pairing according to XP
+# Why we think pairing is important
 
 ^
 - JM: A lot of why I think pairing is a good thing comes from my understanding of how XP is supposed to work. Here are the practices that XP is made up of.
 
 ---
 
-### XP Practices (1-6)
+## XP Practices (1-6)
 
 * The Planning Game
 * Small Releases
@@ -129,7 +126,7 @@
 
 ---
 
-### XP Practices (7-12)
+## XP Practices (7-12)
 
 * Pair Programming
 * Collective Ownership
@@ -143,7 +140,7 @@
 
 ---
 
-### XP Practices Supporting Pairing
+## XP Practices Supporting Pairing
 
 ---
 
@@ -215,7 +212,7 @@
 
 ---
 
-### XP Practices Supported By Pairing
+## XP Practices Supported By Pairing
 
 ---
 
@@ -275,7 +272,7 @@
 
 ---
 
-### Mutually Supporting XP Practices
+## Mutually Supporting XP Practices
 
 ^
 - We've discussed some of the practices enabled by pairing, and some of those that complement pairing. We'll now look at how all those practices come together in XP.
@@ -313,11 +310,11 @@
 
 ---
 
-## Benefits of pairing according to GFR
+# Why we think pairing is a Good Thing™
 
 ---
 
-### Collective Code Ownership
+## Collective Code Ownership
 
 * Develop a consistent shared:
     * coding style
@@ -337,7 +334,7 @@
 
 ---
 
-### Quality
+## Quality
 
 * Helps catch edge cases
 * Encourages discipline
@@ -354,7 +351,7 @@
 
 ---
 
-### Efficiency
+## Efficiency
 
 * Avoid going down rabbit holes
 * Improved focus/flow
@@ -367,7 +364,7 @@
 
 ---
 
-### Simplicity
+## Simplicity
 
 * Identify duplicate code
 * Avoid over-engineering
@@ -377,11 +374,11 @@
 
 ---
 
-### Avoid people feeling afraid to ask for help
+## Avoid people feeling afraid to ask for help
 
 ---
 
-### Opportunities for inter-disciplinary collaboration
+## Opportunities for inter-disciplinary collaboration
 
 ---
 
@@ -545,3 +542,5 @@
 * Differentiate quotes from headings
   * Add quote attribution
   * Style quotes in italics and the emphasis in bold
+
+* Where does "Feedback Mechanisms in XP" live?
