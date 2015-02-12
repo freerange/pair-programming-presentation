@@ -1,4 +1,10 @@
-![fit](gfr-logo.png)
+# Pair Programming
+
+![](pairon.jpg)
+
+^
+- *-> CJR
+- Hi, we're Chris and James and we're going to talk to you about pair programming.
 
 ---
 
@@ -7,13 +13,7 @@
 
 ---
 
-# Pair Programming
-
-![](pairon.jpg)
-
-^
-- *-> CJR
-- Hi, we're Chris and James and we're going to talk to you about pair programming.
+![fit](gfr-logo.png)
 
 ---
 
